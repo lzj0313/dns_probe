@@ -6,7 +6,7 @@ Requirement：
  /cn_ip：实时更新最新全国IP网段
 
 2.Usage of ./dnsearch_new:
-
+![1](https://github.com/user-attachments/assets/f53b96bf-a5ea-4645-8346-92e8e070c19d)
 -h
 【缩写】显示帮助菜单。默认: false
 -finishPath string
@@ -19,6 +19,7 @@ Requirement：
 输出文件名称
 -rate int
 每秒发包速度限制 (default 100000)
+
 -tf string
 不扫描全球IP，指定CIDR列表
 -v    
